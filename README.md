@@ -44,7 +44,7 @@
 
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreetik&layout=compact&theme=default" alt="Top languages" height="150"/>
- <img src="https://github-readme-stats.vercel.app/api?username=shreetik&show_icons=true&theme=default" alt="GitHub stats" height="150"/>
+
   <!-- GitHub Contribution Graph (Animated Snake) -->
  
   
