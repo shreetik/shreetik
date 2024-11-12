@@ -45,7 +45,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreetik&theme=default" alt="GitHub Streak Stats" height="150"/>
 
   <!-- GitHub Contribution Graph (Animated Snake) -->
-  <img src="https://github.com/shreetik/shreetik/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+ 
+  
 </div>
 
 ---
